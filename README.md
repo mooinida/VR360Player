@@ -1,5 +1,11 @@
 ここは　ソンミンソンの　vrプロゼット。
 画面を360度回転させながら、さまざまな場所を立体的に見ることができるプロゼットです。
+映像
+
+
+https://github.com/user-attachments/assets/53ecc0a6-0b90-47a5-98b6-306158cdcc89
+
+
 
 ![image](https://github.com/user-attachments/assets/21c6f4df-939a-4d2d-bf32-2b6f1db66361)
 ![image](https://github.com/user-attachments/assets/a95b21a5-4d2e-4f66-a1e4-5ea6d382c001)
